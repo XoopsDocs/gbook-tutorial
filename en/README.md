@@ -1,10 +1,10 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](en/assets/logoXoops.jpg)
+![logoXoops.jpg](assets/logoXoops.jpg)
 
 # Module gBook
 #### for XOOPS 2.5.8
       
-![logoModule.png](en/assets/logoModule.png)
+![logoModule.png](assets/logoModule.png)
             
 ## User Manual
 
@@ -14,7 +14,7 @@
 
 This module is for a simple Guest Book for XOOPS CMS
 
-![image001.png](en/assets/image001.png)
+![image001.png](assets/image001.png)
 *Figure 1: Main view of the gBook Module (Admin side)*
 
 ## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
