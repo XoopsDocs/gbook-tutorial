@@ -1,6 +1,6 @@
 # 1.0 Install/Uninstall
 
-No special measures necessary, follow the standard installation process � extract the module folder into the 
+No special measures necessary, follow the standard installation process extract the module folder into the 
 
 /modules 
 
